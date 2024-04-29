@@ -1,4 +1,4 @@
-This is a speed typing game coded entirly in HTML,CSS and Javascript. Here's how it works: 
+This is a simple speed typing game coded entirly in HTML,CSS and Javascript. Here's how it works: 
 Once the player initiates typing in the text box, a timer starts ticking. The game fetches random quotes via APIs. As the player types, the program compares their input to the retrieved quote. Any discrepancies in letters or whitespaces trigger dynamic feedback: mismatched letters turn red and become underlined, while correct entries remain in a vibrant green hue.
 
 Screenshots from the app:
