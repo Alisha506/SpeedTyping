@@ -1,5 +1,16 @@
-This is a simple speed typing game coded entirly in HTML,CSS and Javascript. Here's how it works: 
-Once the player initiates typing in the text box, a timer starts ticking. The game fetches random quotes via APIs. As the player types, the program compares their input to the retrieved quote. Any discrepancies in letters or whitespaces trigger dynamic feedback: mismatched letters turn red and become underlined, while correct entries remain in a vibrant green hue.
+Project Overview:
+
+The Speed Typing Game is an interactive web application developed entirely using HTML, CSS, and JavaScript. It provides users with an engaging typing challenge where they race against the clock to type out random quotes fetched via APIs accurately. The game offers dynamic feedback, highlighting any discrepancies between the player's input and the retrieved quote in real-time.
+
+Key Features:
+
+Dynamic Timer: The game features a timer that starts ticking as soon as the player initiates typing in the text box, adding an element of urgency to the challenge.
+
+Random Quote Generation: Utilizing APIs, the game fetches random quotes to serve as typing prompts, ensuring each gameplay session is unique.
+
+Real-Time Feedback: As the player types, the program dynamically compares their input to the retrieved quote, providing immediate feedback. Mismatched letters and whitespaces are visually highlighted in red and underlined, while correct entries are displayed in a vibrant green hue.
+
+Responsive Design: The game is designed to be responsive, ensuring optimal gameplay experience across various devices and screen sizes.
 
 Screenshots from the app:
 <img width="919" alt="image" src="https://github.com/Alisha506/SpeedTyping/assets/137915040/42f9e372-378c-445a-8872-bda7df9185f5">
